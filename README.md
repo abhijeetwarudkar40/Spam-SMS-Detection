@@ -61,8 +61,7 @@ Spam-SMS-Detection/
 ├── model.pkl
 ├── requirements.txt
 ├── README.md
-└── notebook/
-    └── SMS_Spam_detection.ipynb
+└── SMS_Spam_detection.ipynb
 ```
 
 ---
@@ -124,15 +123,3 @@ Spam
 * Message history tracking
 * Upload custom dataset
 * Improve model accuracy
-
----
-
-## Author
-
-Abhijeet Warudkar
-
----
-
-## License
-
-This project is created for educational and learning purposes.
