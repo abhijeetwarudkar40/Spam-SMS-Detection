@@ -98,7 +98,7 @@ The application will open automatically in your browser.
 **Input**
 
 ```
-Congratulations! You have won a free lottery ticket
+Congratulations! You’ve won a $500 Amazon gift card. Claim it here [Link]. 
 ```
 
 **Output**
